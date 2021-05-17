@@ -1,0 +1,4 @@
+main: io.github.mtechtips.plugin.plugin
+version: 1.0
+name: plugin
+api-version: 1.16
